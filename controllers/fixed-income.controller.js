@@ -1,4 +1,5 @@
 const FixedIncome = require("../models/fixed-income");
+const CategoryIncome = require('../models/category-income')
 const { v4: uuidv4 } = require("uuid");
 
 // create new fixed_income

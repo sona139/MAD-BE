@@ -1,4 +1,5 @@
 const FixedExpense = require("../models/fixed-expense");
+const CategoryExpense = require('../models/category-expense')
 const { v4: uuidv4 } = require("uuid");
 
 
